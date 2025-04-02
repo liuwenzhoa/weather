@@ -10,7 +10,7 @@ mcp = FastMCP("weather")
 # 定义OpenWeatherMap API 的基础URL
 OPENWEATHER_API_BASE = "https://api.openweathermap.org/data/2.5"
 # API 密钥
-OPENWEATHER_API_KEY = "01a0efb1dc603508e9ee57a3c31beab9"
+OPENWEATHER_API_KEY = "01a0xxxxxx"
 # API 调用的身份识别
 USER_AGENT = "weather-app/1.0"
 
