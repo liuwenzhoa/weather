@@ -8,3 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
+weather_env/
+MCP 服务端开发文档入门.md
